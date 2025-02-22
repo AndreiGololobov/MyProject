@@ -1,1 +1,22 @@
 Django==5.1.6
+django-ckeditor==6.7.2
+django-js-asset==3.0.1
+django-multiselectfield==0.1.13
+django-allauth #сделать логин через гугл фейсбук и прочие соц сети
+django-multiselectfield==0.1.12 #выбор нескольких атрибутов в списке форм
+pillow==11.1.0 #работа с изоброжениями
+sqlparse==0.5.3 # parcing queries 
+asgiref==3.8.1 
+certifi==2020.6.20
+chardet==3.0.4 #для рендеринга
+defusedxml==0.6.0 #защищает от атаки типа XML-бомба 
+idna==2.10
+oauthlib==3.1.0
+psycopg2-binary 
+python3-openid==3.2.0 #соц сети логин
+pytz==2020.1 # контент по времени у всех разные временные зоны
+requests==2.24.0 # что то для логин тоже
+requests-oauthlib==1.3.0 #api facebook and other pass
+urllib3==1.25.10 #htttp client for request sequre http request
+
+# pip install -r requirements.txt
